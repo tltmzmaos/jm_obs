@@ -19,7 +19,7 @@ The lists of LLM models were further divided based on the number of parameters a
 
 ## Comparisons
 Based on the analytic comparisons from [Artificial Analysis AI](https://artificialanalysis.ai/models), GPT4 showed the best performance, but pricing was an issue. As for Llama 2, while its 70B model could be compared to the previously mentioned models, it's too large to host directly, and it seems that no API is provided. It seems that GPT3.5 and Mistral models are proper to use for my project.
-![](content/POC/PDF%20ChatBot/comparison.png)
+![](content/POC/PDF%20Chatbot/comparison.png)
 ## LLM list
 ### ChatGPT
 No need to explain about ChatGPT. Too many people are already using it and it has been verified for its performance and quality by the public. ChatGPT was created by OpenAI and is a form of generative AI that uses a Generative Pre-trained Transformer (GPT) to process requests and formulate responses. It is trained with reinforcement learning through human feedback and reward models that rank the best responses.
