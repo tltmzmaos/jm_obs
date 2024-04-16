@@ -1,4 +1,4 @@
 ---
-title: <%tp.file.title%>
+title: Self-action value function
 tags:
 ---

@@ -1,4 +1,4 @@
 ---
-title: <%tp.file.title%>
+title: Continuous state spaces
 tags:
 ---

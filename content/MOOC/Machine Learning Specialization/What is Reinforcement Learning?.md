@@ -1,5 +1,5 @@
 ---
-title: <%tp.file.title%>
+title: What is Reinforcement Learning?
 tags:
   - DeepLearningAI
   - MachineLearningSpecialization
